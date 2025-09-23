@@ -1,8 +1,9 @@
 # 👨‍💻 Mangesh Shahu
 
+**Full Stack MERN Developer | Front-end Specialist | UI/UX Designer**
+
 Visit My [PORTFOLIO](https://illustrious-sunburst-79ee21.netlify.app/)
-**Full Stack MERN Developer | Front-end Specialist | UI/UX Designer**  
-📍 Nara Road, Nagpur | 🇮🇳  
+📍 Nagpur | Maharashtra , INDIA  
 📧 [shahumangesh07@gmail.com](mailto:shahumangesh07@gmail.com)  
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/mangesh-shah-1773521a3)
